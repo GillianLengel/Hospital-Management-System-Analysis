@@ -49,19 +49,19 @@ The interactive dashboard is organized into three sections.
 
 Provides a high-level view of hospital activity through key performance indicators and visualizations covering appointment outcomes, department activity, and medical records.
 
-![Hospital Overview](dashboards/Hospital_Overview.png)
+![Hospital Overview](dashboards/Hospital%20Overview.png)
 
 ### 2. Appointment Performance
 
 Examines appointment outcomes across hospital departments, including no-show rates and the distribution of completed, scheduled, cancelled, and missed appointments.
 
-![Appointment Performance](dashboards/Appointment_Performance.png)
+![Appointment Performance](dashboards/Appointment%20Performance.png)
 
 ### 3. Staffing & Resources
 
 Explores departmental staffing levels, listed beds by ward, average patient length of stay, and the relationship between admission volume and average length of stay.
 
-![Staffing & Resources](dashboards/Staffing_Resources.png)
+![Staffing & Resources](dashboards/Staffing%20%26%20Resources.png)
 
 ## Key Analytical Areas
 
